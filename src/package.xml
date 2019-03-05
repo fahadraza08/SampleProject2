@@ -4,5 +4,9 @@
 		<members>CIDemoClass</members>
 		<name>ApexClass</name>
 	</types>
+	<types>
+		<members>User.Executive_Forecast_New_Est_Create_Access__c</members>
+		<name>CustomField</name>
+	</types>
 	<version>36.0</version>
 </Package>
