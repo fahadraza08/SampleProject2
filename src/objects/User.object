@@ -10,4 +10,14 @@
         <trackFeedHistory>false</trackFeedHistory>
         <type>Checkbox</type>
     </fields>
+	<fields>
+        <fullName>Executive_Forecast_New_Est_Create_Access2__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>If checked user can create new estimate version of executive forecast data test.</description>
+        <externalId>false</externalId>
+        <inlineHelpText>If checked user can create new estimate version of executive forecast data test.</inlineHelpText>
+        <label>Executive Forecast New Est Create Access2</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
 </CustomObject>
